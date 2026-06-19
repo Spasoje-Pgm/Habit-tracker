@@ -1,0 +1,18 @@
+{
+  "name": "Habit Tracker",
+  "short_name": "Habits",
+  "description": "Personal gamified habit tracker",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e6e3dd",
+  "theme_color": "#f6f4ef",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='40' fill='%23f6f4ef'/%3E%3Ccircle cx='96' cy='96' r='56' fill='none' stroke='%23e9e4db' stroke-width='12'/%3E%3Ccircle cx='96' cy='96' r='56' fill='none' stroke='%235f8c6e' stroke-width='12' stroke-linecap='round' stroke-dasharray='351' stroke-dashoffset='88' transform='rotate(-90 96 96)'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
